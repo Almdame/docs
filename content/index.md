@@ -11,7 +11,7 @@ featuredLinks:
     - /authentication
     - /get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
     - /get-started/getting-started-with-git/managing-remote-repositories
-    - /pages
+    - /pages.
 versions: '*'
 children:
   - get-started
@@ -119,3 +119,4 @@ externalProducts:
     external: true
 ---
 
+Ahmedalmghrabe92@gmail.com 
